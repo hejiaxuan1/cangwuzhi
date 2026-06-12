@@ -39,3 +39,7 @@
 - `app/src/main/java/com/codex/focusflow/ui/FocusFlowApp.kt`
 - `app/src/main/java/com/codex/focusflow/ui/theme/Theme.kt`
 - `app/src/main/res/xml/file_paths.xml`
+
+## 作者说明
+
+- 作者为编程爱好者，该app全程由gpt-5.5制作，后续想做的包括界面的改进，交互逻辑的改进，多设备同步等内容，作者还不会，大神请自行改进。
